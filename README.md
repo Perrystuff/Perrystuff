@@ -1,4 +1,4 @@
-# Hey, I'm **Perrystuff** 👋
+# Hey, I'm **Perry** 👋
 
 I like figuring out how systems work - and how I could break them.
 
