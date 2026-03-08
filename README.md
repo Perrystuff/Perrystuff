@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hey, I'm Perry👋</h1>
     <h3>I like figuring out how systems work - and how I could break them.</h3>
-</div>
+
 
 ## 🛠️ Technologies I'm learning (or at least want to learn) `¯\_(ツ)_/¯`
 
@@ -19,7 +19,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-<div align="center">
 <pre><code>
     ____                      
    / __ \___  ____________  __
