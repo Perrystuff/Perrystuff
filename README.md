@@ -1,8 +1,7 @@
-# Hey, I'm **Perry** 👋
-
-I like figuring out how systems work - and how I could break them.
-
-
+<div align="center">
+    <h1>Hey, I'm Perry👋</h1>
+    <h3>I like figuring out how systems work - and how I could break them.</h3>
+</div>
 
 ## 🛠️ Technologies I'm learning (or at least want to learn) `¯\_(ツ)_/¯`
 
@@ -20,3 +19,14 @@ I like figuring out how systems work - and how I could break them.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+<div align="center">
+<pre><code>
+    ____                      
+   / __ \___  ____________  __
+  / /_/ / _ \/ ___/ ___/ / / /
+ / ____/  __/ /  / /  / /_/ / 
+/_/    \___/_/  /_/   \__, /  
+                     /____/   
+</code></pre>
+<img src="https://komarev.com/ghpvc/?username=Perrystuff&label=Profile%20views&color=0e75b6&style=flat" alt="perrystuff" />
+</div>
