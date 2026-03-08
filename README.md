@@ -4,7 +4,7 @@ I like figuring out how systems work - and how I could break them.
 
 
 
-## 🛠️ Technologies I'm learning (or at least want to learn `¯\_(ツ)_/¯` ) 
+## 🛠️ Technologies I'm learning (or at least want to learn) `¯\_(ツ)_/¯`
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
